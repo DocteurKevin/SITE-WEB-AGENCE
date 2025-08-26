@@ -143,7 +143,7 @@ export default function Footer() {
         <div className="border-t border-background/20 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-background/60 text-sm">
-              © 2024 Agence K-Tout-Risk. Tous droits réservés.
+              © 2025 Agence K-Tout-Risk. Tous droits réservés.
             </p>
             <div className="flex items-center space-x-6">
               <a
@@ -161,7 +161,7 @@ export default function Footer() {
                 <Mail className="h-5 w-5" />
               </a>
               <a
-                href="https://wa.me/33745280417"
+                href="https://wa.me/33458754"
                 className="text-background/60 hover:text-white transition-colors"
                 target="_blank"
                 rel="noopener noreferrer"

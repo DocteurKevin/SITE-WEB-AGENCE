@@ -58,7 +58,7 @@ export default function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  +33 7 45 28 04 17
+                  +33 7 45 57 54 27
                 </a>
               </div>
               <div className="flex items-center space-x-3">

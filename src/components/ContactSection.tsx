@@ -19,8 +19,8 @@ export default function ContactSection() {
     {
       icon: <MessageCircle className="h-6 w-6" />,
       title: "WhatsApp",
-      value: "+33 7 45 28 04 17",
-      link: "https://wa.me/33745280417",
+      value: "+33 7 45 57 54 27",
+      link: "https://wa.me/33745575427",
       description: "Réponse immédiate"
     },
     {

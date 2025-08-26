@@ -53,7 +53,7 @@ export default function Footer() {
               <div className="flex items-center space-x-3">
                 <MessageCircle className="h-4 w-4" />
                 <a
-                  href="https://wa.me/33745280417"
+                  href="https://wa.me/33458754"
                   className="text-background/80 hover:text-white transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"
